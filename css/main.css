@@ -456,7 +456,7 @@ video {
 .header .header-content {
     display: flex;
     justify-content: center;
-    height: 125vh;
+    height: 100vh;
     position: relative;
 }
 
