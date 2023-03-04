@@ -456,7 +456,7 @@ video {
 .header .header-content {
     display: flex;
     justify-content: center;
-    height: 100vh;
+    height: 125vh;
     position: relative;
 }
 
@@ -1054,7 +1054,7 @@ footer {
 
 /* -------------------------------
 
-18. Page 404 
+18. Page 404
 
 --------------------------------*/
 
@@ -1065,4 +1065,3 @@ footer {
     margin-bottom: -50px;
     font-size: 150px;
 }
-
